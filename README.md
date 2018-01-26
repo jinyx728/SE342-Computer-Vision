@@ -8,7 +8,7 @@ MacOS 10.13.2，Qt Creator 4.4.1。
 qmake src/demo.pro -spec macx-clang CONFIG+=debug CONFIG+=x86_64 CONFIG+=qml_debug && /usr/bin/make qmake_all
 make in build
 ```
-## 示例图
+### 示例图
 ![Picture](https://github.com/JosephKim6/SE342-Computer-Vision/blob/master/demo.png)
 ### 功能
 1. 打开，保存图片。
