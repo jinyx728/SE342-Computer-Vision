@@ -8,6 +8,8 @@ MacOS 10.13.2，Qt Creator 4.4.1。
 qmake src/demo.pro -spec macx-clang CONFIG+=debug CONFIG+=x86_64 CONFIG+=qml_debug && /usr/bin/make qmake_all
 make in build
 ```
+## Picture
+![Picture](https://github.com/JosephKim6/HackXSJTU-Nvidia/blob/master/4775AC0C5F0EC7A554805684CA0FF74F.jpg)
 ### 功能
 1. 打开，保存图片。
 2.	撤销/恢复 功能。
